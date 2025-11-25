@@ -1,4 +1,4 @@
-**Amazon Sales Analysis - Power BI Dashboard 📊 **
+**Amazon Sales Analysis - Power BI Dashboard** 📊
 
 Excited to share my latest Power BI project where I explored the Amazon sales data to explore the key insights from the year 2011-2014
 
