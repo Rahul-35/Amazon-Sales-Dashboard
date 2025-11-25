@@ -19,5 +19,5 @@ Interactive filters for Year, Month, Product & Location
 
 Because a dashboard should do more than look good —
  it should shout insights before anyone even asks for them.
-
  
+![amazon](https://github.com/user-attachments/assets/3c6816d7-c81f-4762-bae2-59e0b65d1776)
